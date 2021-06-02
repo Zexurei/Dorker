@@ -14,6 +14,7 @@ python2 dorkscanner.py
 $ pkg update && pkg upgrade 
 $ pkg install git 
 $ pkg install python2 
+$ pip2 install colorama
 $ git clone https://github.com/Zexurei/Dorker/
 $ cd Dorker
 $ python2 dorkmaker.py
