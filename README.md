@@ -1,6 +1,8 @@
 # Dorker
 ## Installation Linux
 ```bash
+$ sudo apt-get update
+$ sudo apt-get install git
 $ git clone https://github.com/Zexurei/Dorker/
 $ cd Dorker
 $ python2 dorkmaker.py
