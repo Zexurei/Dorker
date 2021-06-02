@@ -19,8 +19,7 @@ After Using Dork Use Dork Scanner
 python2 dorkscanner.py
 ```
 
-<h2>Contact</h2>
-<lh3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On  </h3><br>
-Telegram : zxyzu <br>E-mail : renjazuexploit@gmail.com
-<hr>
-<hr>
+<h2>Contact</h1>
+Tele : @zxyzu
+
+Mail : renjazuexploit@gmail.com
